@@ -88,9 +88,9 @@
 			<li>
 				<a href="#">CV</a>
 				<ul class="dl-submenu">
-					<li><a href="{{ site.url }}/posts/">所有 文章</a></li>
-					<li><a href="{{ site.url }}/tags/">所有 标签</a></li>
-				</ul>
+                    <li>
+                    <a href="mailto:{{ site.CV }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-envelope-square"></i> CV </a>
+                </li>{% endif %}
 			</li>
 			{% for link in site.data.navigation %}
 		    {% if link.url contains 'http' %}
