@@ -39,7 +39,7 @@ disqus_shortname:   YingjieLiu
   #ad-slot:
 #bing-verify:
 email:              lunaliu031@outlook.com
-CV:                 "../assets/pdf/liuyingjie.pdf"
+CV:                 '/assets/pdf/liuyingjie.pdf'
 #twitter:            username
 #facebook:           username
 github-url:         ImYJLiu
