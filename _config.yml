@@ -1,10 +1,10 @@
 # Site
-title:              Luna
+title:              Yingjie
 bio:                '<b>love diet cola</b>'
 description:        "Hello, I am a graduate student in Educational Data Mining at Northeastern University !"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/luna.jpg'
+logo:               'assets/img/Yingjie.jpg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_ZH
@@ -27,7 +27,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   LunaLiu
+disqus_shortname:   YingjieLiu
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -38,7 +38,7 @@ disqus_shortname:   LunaLiu
   #ad-client:
   #ad-slot:
 #bing-verify:
-email:              lunaliu031@outlook.com
+email:              Yingjieliu031@outlook.com
 #twitter:            username
 #facebook:           username
 github-url:         ImYJLiu
