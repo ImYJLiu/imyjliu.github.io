@@ -87,10 +87,11 @@
 			</li>
 			<li>
 				<a href="#">CV</a>
-				<ul class="dl-submenu">
-                    <li>
-                    <a href="mailto:{{ site.CV }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-envelope-square"></i> CV </a>
-                </li>
+                    <ul class="dl-submenu">
+                        <li>
+                            <a href="mailto:{{ site.CV }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-envelope-square"></i> CV </a>
+                        </li>
+                    </ul>
 			</li>
 			{% for link in site.data.navigation %}
 		    {% if link.url contains 'http' %}
