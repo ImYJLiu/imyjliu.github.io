@@ -1,14 +1,14 @@
 # Site
-title:              Fuyun
-bio:                '<b>在最有热情的年纪，做最爱的事情</b><br>如果想了解我可以先看下关于'
-description:        "可以叫我浮云，这是我的博客，记录一些学习上的心得体会，如果能帮助到你，是我的荣信."
+title:              Luna
+bio:                '<b>love diet cola</b>'
+description:        "You can call me luna, this is my blog, recording some learning experiences. It is my honor to help you."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/img791.jpg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_ZH
-url:                https://fuyun791.github.io
+url:                https://imyjliu.github.io/
 #url:                http://localhost:4000
 
 # Jekyll
@@ -27,7 +27,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   fuyuncai
+disqus_shortname:   LunaLiu
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -38,10 +38,10 @@ disqus_shortname:   fuyuncai
   #ad-client:
   #ad-slot:
 #bing-verify:
-email:              791009557@qq.com
+email:              lunaliu031@outlook.com
 #twitter:            username
 #facebook:           username
-github-url:         Fuyun791
+github-url:         ImYJLiu
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
