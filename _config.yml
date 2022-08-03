@@ -4,7 +4,7 @@ bio:                '<b>love diet cola</b>'
 description:        "Hello, I am a graduate student in Educational Data Mining at Northeastern University !"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/img791.jpg'
+logo:               'assets/img/luna.jpg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_ZH
