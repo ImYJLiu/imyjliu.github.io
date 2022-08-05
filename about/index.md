@@ -9,7 +9,7 @@ feature: https://imyjliu.github.io/assets/img/picture/300.jpg
 
 ### *WORK*
 <a href="https://imyjliu.github.io/"><b>Yingjie liu</b></a> is a master's student in Educational Data Mining at Northeastern University
-who is actively looking for a job in academia in learning analytics, artificial intelligence in education, and educational data mining.Yingjie liu Interested in cognitive diagnosis, temporal knowledge tracking, and learning prediction. She has published papers in Computer Science, frontier of Computer Science.
+who is actively looking for a PHD job in academia in educational data mining.Yingjie liu Interested in cognitive diagnosis, temporal knowledge tracking, and learning prediction. She has published papers in Computer Science, frontier of Computer Science.
 <br>
 <br>
 
