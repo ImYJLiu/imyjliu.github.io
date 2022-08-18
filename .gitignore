@@ -2,3 +2,6 @@ _site/
 .sass-cache/
 .jekyll-metadata
 .idea/
+.DS_Store
+assets/.DS_Store
+assets/pdf/.DS_Store
