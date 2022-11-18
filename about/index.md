@@ -16,7 +16,7 @@ who is actively looking for a PHD job in academia in educational data mining.Yin
 
 
 ### *BIO*
-<br><b>2021.07-Now </b> Quality Assurance engineer, Meituan, China.
+<br><b>2021.07-Present</b> Quality Assurance engineer, Meituan, China.
 <br><b>2018.09-2021.07 </b> Graduated from Northeastern University(Liaoning,China) with a MA in CAT(computer application technology).
 <br><b>2014.09-2018.07 </b> Graduated from ShanXi Normal University(Shanxi, China) with a BA in computer science and technology.
 <br><b>1996.10 </b> Born in Shanxi, China.
